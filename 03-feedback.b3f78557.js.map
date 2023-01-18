@@ -1,0 +1,1 @@
+{"mappings":"qeACA,EADAA,EAAA,SACAC","sources":["src/js/03-feedback.js"],"sourcesContent":["import asdfg from './01-gallery';\nasdfg();\n"],"names":["parcelRequire","default"],"version":3,"file":"03-feedback.b3f78557.js.map"}
